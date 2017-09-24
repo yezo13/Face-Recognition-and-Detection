@@ -1,0 +1,21 @@
+﻿  main.cpp
+f:\opencv\opencv3.2\new_build\install\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.2\new_build\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.2\new_build\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.2\new_build\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.2\new_build\install\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2802): error C2065: “FaceRecognizer”: 未声明的标识符
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2802): error C2923: “cv::Ptr”: 对于参数“T”，“FaceRecognizer”不是有效的 模板 类型变量
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2802): error C3861: “createEigenFaceRecognizer”: 找不到标识符
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2802): error C2514: “cv::Ptr”: 类没有构造函数
+  f:\opencv\opencv3.2\new_build\install\include\opencv2\core\cvstd.hpp(281): note: 参见“cv::Ptr”的声明
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2803): error C2678: 二进制“->”: 没有找到接受“cv::Ptr”类型的左操作数的运算符(或没有可接受的转换)
+  f:\opencv\opencv3.2\new_build\install\include\opencv2\core\cvstd.hpp(389): note: 可能是“T *cv::Ptr<T>::operator ->(void) const”
+  f:\intern\myfirstopencv\myfirstopencv\main.cpp(2803): note: 尝试匹配参数列表“(cv::Ptr)”时
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2803): error C2039: “load”: 不是“cv::Ptr”的成员
+  f:\opencv\opencv3.2\new_build\install\include\opencv2\core\cvstd.hpp(281): note: 参见“cv::Ptr”的声明
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2841): error C2678: 二进制“->”: 没有找到接受“cv::Ptr”类型的左操作数的运算符(或没有可接受的转换)
+  f:\opencv\opencv3.2\new_build\install\include\opencv2\core\cvstd.hpp(389): note: 可能是“T *cv::Ptr<T>::operator ->(void) const”
+  f:\intern\myfirstopencv\myfirstopencv\main.cpp(2841): note: 尝试匹配参数列表“(cv::Ptr)”时
+f:\intern\myfirstopencv\myfirstopencv\main.cpp(2841): error C2039: “predict”: 不是“cv::Ptr”的成员
+  f:\opencv\opencv3.2\new_build\install\include\opencv2\core\cvstd.hpp(281): note: 参见“cv::Ptr”的声明
